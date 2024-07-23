@@ -8,7 +8,7 @@ def generate_images(img_description, no_of_img):
     images=[]
     for i in range(no_of_img):
         img_response=client.images.generate(
-            model="dall-e-2",
+            model="dall-e-3",
             prompt=img_description,
             size="1024x1024",
             quality="standard",
