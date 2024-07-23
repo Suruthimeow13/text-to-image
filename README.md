@@ -19,6 +19,6 @@ Implemented a text-to-image generation system utilizing OpenAI and Streamlit. Ex
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/suruthimeow/text-to-image.git
-cd dalle-image-generator
+    ```bash
+    git clone https://github.com/suruthimeow13/text-to-image.git
+    ```
